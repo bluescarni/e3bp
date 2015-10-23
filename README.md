@@ -15,7 +15,7 @@ import e3bp
 e = e3bp.e3bp(1.1,1.2,1.3,[.1,.3,.4,.1,-.1,.2])
 ```
 
-This will initialise an object ``e`` corresponding to two fixed centres problem with the following parameters:
+This will initialise an object ``e`` corresponding to a two fixed centres problem with the following parameters:
 
 * ``a = 1.1``,
 * ``mu_1 = 1.2``,
